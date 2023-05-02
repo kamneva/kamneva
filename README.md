@@ -44,24 +44,5 @@
 5. [Shaders](https://github.com/kamneva/OpenGL/tree/shaders) - набор различных программ с использованием шейдеров и наложением текстур.
 
 #### другое:
-1. [POV-Ray](https://github.com/kamneva/POV-Ray)
-2. [Stankin.Food](https://github.com/kamneva/StankinFood)
-
-
-
-
-
-<!--
-**kamneva/kamneva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. [POV-Ray](https://github.com/kamneva/POV-Ray) - набор изображений с использованием техники рендеринга.
+2. [Stankin.Food](https://github.com/kamneva/StankinFood) - командный проект реализации мобильного приложения для оформления заказа в столовой старого или кафе нового корпуса СТАНКИНа.
