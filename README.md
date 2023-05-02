@@ -11,7 +11,6 @@
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamneva&layout=compact"/></a>
 </p>
 
-
 <p align='center'>
    <a href="https://t.me/blue_oleander">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -19,7 +18,6 @@
 <p align='center'>
   📧 Почта для связи: <a href='mailto:olechka.kamneva@list.ru'>olechka.kamneva@list.ru</a>
 </p>
-
 
 ### Technical Stack:
 * C/C++/C#/Visual Basic
