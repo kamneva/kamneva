@@ -4,6 +4,12 @@
 
 Имею опыт разработки веб-приложений/приложений с использованием C#, ASP.NET MVC, ASP.NET Core, C/C++, Visual Basic, OpenGL. Большая часть разработанных мной проектов доступна в open-source. Владею методами моделирования бизнес-процессов: IDEF0, UML, ARIS.
 
+<p align='center'>
+   <a href="https://github-readme-stats.vercel.app/api?username=kamneva&show_icons=true&count_private=true">
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=kamneva&show_icons=true&count_private=true"/></a>
+   <a href="https://github.com/kamneva/github-readme-stats">
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamneva&layout=compact"/></a>
+</p>
 
 <p align='center'>
    <a href="https://t.me/blue_oleander">
