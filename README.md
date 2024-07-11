@@ -31,8 +31,8 @@
 ### Мои проекты:
 
 #### Моделирование бизнес-процессов:
-1. [UML](https://github.com/kamneva/UML/blob/main/pdf/UML.pdf) - проектирование программы воксельного 3D редактора при помощи унифицированного языка моделирования UML
-2. [IDEF0](https://github.com/kamneva/IDEF0)
+1. [UML](https://github.com/kamneva/UML/blob/main/pdf/UML.pdf) - проектирование программы воксельного 3D редактора при помощи унифицированного языка моделирования UML.
+2. [IDEF0](https://github.com/kamneva/IDEF0/blob/main/pdf/IDEF0.pdf) - модель процесса выполнения проверочного расчета клиноременной передачи с поликлиновыми ремнями при помощи IDEF0.
 3. [ARIS](https://github.com/kamneva/ARIS)
 
 #### C#:
