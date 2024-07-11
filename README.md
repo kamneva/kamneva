@@ -33,7 +33,7 @@
 #### Моделирование бизнес-процессов:
 1. [UML](https://github.com/kamneva/UML/blob/main/pdf/UML.pdf) - проектирование программы воксельного 3D редактора при помощи унифицированного языка моделирования UML.
 2. [IDEF0](https://github.com/kamneva/IDEF0/blob/main/pdf/IDEF0.pdf) - модель процесса выполнения проверочного расчета клиноременной передачи с поликлиновыми ремнями при помощи IDEF0.
-3. [ARIS](https://github.com/kamneva/ARIS)
+3. [ARIS](https://github.com/kamneva/ARIS/blob/main/pdf/ARIS.pdf) - моделирование структуры компании по производству стиральных машин при помощи методологии ARIS.
 
 #### C#:
 1. [PRORACLIPE](https://github.com/kamneva/PRORACLIPE) - программа для выполнения проверочного расчёта клиноременной передачи с поликлиновыми ремнями.
