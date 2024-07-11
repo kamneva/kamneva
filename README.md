@@ -48,5 +48,6 @@
 2. [OpenGL-applications](https://github.com/kamneva/OpenGL) - набор разнообразных OpenGL-приложений.
 
 #### другое:
-1. [POV-Ray](https://github.com/kamneva/POV-Ray) - набор изображений с использованием техники рендеринга.
-2. [Stankin.Food](https://github.com/kamneva/StankinFood) - командный проект реализации мобильного приложения для заказа еды в СТАНКИНе.
+1. [Pinterest](https://github.com/kamneva/Pinterest/blob/main/pdf/Pinterest.pdf) - разработка программы приёмо-сдаточных испытаний программного продукта «Pinterest» на основе ТЗ на разработку и внедрение программного продукта.
+2. [POV-Ray](https://github.com/kamneva/POV-Ray) - набор изображений с использованием техники рендеринга.
+4. [Stankin.Food](https://github.com/kamneva/StankinFood) - командный проект реализации мобильного приложения для заказа еды в СТАНКИНе.
